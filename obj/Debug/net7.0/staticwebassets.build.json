@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5cu3gjExj8b4Awxyje8V74deKcQ0CHvCMGeg3GqbsFI=",
+  "Source": "desafio-api-payment",
+  "BasePath": "_content/desafio-api-payment",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
